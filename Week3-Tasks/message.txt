@@ -1,0 +1,12 @@
+Hi {name},
+
+Your weekly report for {company} is attached to this email.
+
+Highlights:
+- All scheduled deliveries completed on time
+- Full details are in the attached report
+
+If anything looks off, just reply to this email and we will sort it out.
+
+Best regards,
+Reports Team

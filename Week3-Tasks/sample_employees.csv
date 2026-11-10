@@ -1,0 +1,8 @@
+email,name,company,joined_date,salary
+ahmed.khan@example.com,  Ahmed Khan ,TechZone Ltd,2026-01-05,45000
+sara.ali@example.com,Sara Ali,Bright Marketing,05/02/2026,
+john.smith@example.com,John Smith,Smith Logistics,Feb 10 2026,52000
+ahmed.khan@example.com,  Ahmed Khan ,TechZone Ltd,2026-01-05,45000
+,,,,
+maria.garcia@example.com,Maria Garcia,,2026-03-15,48000
+lee.chen@example.com,Lee Chen,Chen Consulting,not a date,61000
